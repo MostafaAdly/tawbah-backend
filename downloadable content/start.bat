@@ -1,0 +1,1 @@
+java -jar TawbahBackendServer.jar 3000
